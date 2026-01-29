@@ -30,9 +30,9 @@ The app helps users manage daily tasks with full **CRUD operations** and local d
 ##  Screenshots
 
 <p align="center">
-  <img src="screenshort/screenshot1.png" width="300"/>
-   <img src="screenshort/screenshot2.png" width="300"/>
-   <img src="screenshort/screenshot3.png" width="300"/>
+  <img src="screenshort/Screenshot1.png" width="300"/>
+   <img src="screenshort/Screenshot2.png" width="300"/>
+   <img src="screenshort/Screenshot3.png" width="300"/>
 </p>
 
 ---
